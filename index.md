@@ -11,12 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-
-
-## Header 2
-### Header 3
-
+# Research Topic
 - Multichannel Signal Processing
 - Microphone Array Signal Processing
 - IoT Sensor Network
