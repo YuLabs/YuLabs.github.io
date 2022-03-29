@@ -1,8 +1,8 @@
 ## Welcome to Yu Lab's Pages
-Research Topics includes:
-- Multichannel Signal Processing
-- Microphone Array Signal Processing
-- IoT Sensor Network
+Our research topics mainly involve:
+ - Multichannel Signal Processing
+ - Microphone Array Signal Processing
+ - IoT Sensor Network
 
 ### Published Papers
 
