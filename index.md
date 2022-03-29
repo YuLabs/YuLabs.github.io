@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Yu Lab's Pages
 
 You can use the [editor on GitHub](https://github.com/crystalyuu/YuLab.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
