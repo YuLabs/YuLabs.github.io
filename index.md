@@ -9,16 +9,16 @@ Our research topics mainly involve:
 
 **1. Spatial-Tempora Graph Convolution Network for Multichannel Speech Enhancement, ICASSP 2022**
 
-   **Abstract:**  need to be updated
+   Abstract: need to be updated
 
-   **Wav files:** need to be updated
+   Wav files: need to be updated
 
 
 **2. Attention-based Feature-aware Adversarial Learning for Speech Enhancement, submitted to Interspeech 2022**
 
-   **Abstract:**  need to be updated
+   Abstract:  need to be updated
 
-   **Wav files:** need to be updated
+   Wav files: need to be updated
 
 
 ## Contact Info
