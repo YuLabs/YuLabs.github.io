@@ -3,7 +3,7 @@
 Our research topics mainly involve:
  - Multichannel Signal Processing
  - Microphone Array Signal Processing
- - 
+ - IoT Sensor Network
 
 ## Resources of Published Papers
 
